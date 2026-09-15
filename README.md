@@ -4,7 +4,9 @@ markdown
 Simple numerical integration routines in Python.
 
 
-Default method: Gauss-Legendre
+
+Default method: Gauss-Legendre Romberg
+
 
 
 ## Methods implemented
