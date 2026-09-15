@@ -8,3 +8,5 @@ Default method: trapezoid
 ## Methods implemented
 
 - trapezoid
+
+- simpson
