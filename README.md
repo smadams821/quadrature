@@ -12,3 +12,5 @@ Default method: Simpoint
 - trapezoid
 
 - simpson
+
+Maintained by Sophia Adams
