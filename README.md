@@ -4,7 +4,7 @@ markdown
 Simple numerical integration routines in Python.
 
 
-Default method: Simpoint
+Default method: Gauss-Legendre
 
 
 ## Methods implemented
