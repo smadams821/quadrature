@@ -3,7 +3,9 @@ markdown
 
 Simple numerical integration routines in Python.
 
-Default method: Simpson
+
+Default method: Simpoint
+
 
 ## Methods implemented
 
