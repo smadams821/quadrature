@@ -18,3 +18,5 @@ def simpson(f, a, b, n):
     for i in range(1, n):
         s += (4 if i % 2 == 1 else 2) * f(a + i*h)
     return h * s / 3
+
+#yo
